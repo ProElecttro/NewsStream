@@ -1,7 +1,7 @@
 # News Stream App
 
 Welcome to the News Stream app project! This application is designed to provide live news updates categorized into sections like sports and entertainment. Built using React and integrated with the NewsAPI, it features infinite scrolling to ensure an uninterrupted browsing experience.
-
+(I DON'T HAVE THE PRODUCTION API, SO IT WORKS IN DEVELOPMENT MODE)
 ## Demo
 
 Check out this cool video showcasing the app:
