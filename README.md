@@ -15,8 +15,6 @@ Check out this cool video showcasing the app:
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -63,14 +61,6 @@ Make sure you have the following installed:
 2. **Open the app:**
 
    Open your browser and go to `http://localhost:3000` to see the app in action.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the project, open an issue, or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
